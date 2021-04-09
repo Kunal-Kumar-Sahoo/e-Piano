@@ -15,20 +15,4 @@ Refer this link to check out nomenclature of Piano keys: https://raw.githubuserc
 
 Our notation: White keys would be denoted as usual but black keys would be identified as sharp keys and would be denoted as corresponding white keys in lower case.
 
-Understanding the wave: The mathematical aspect
-We know sound can travel as a Plane-progressive wave having the equation:
-y(x, t) = A.sin(wt - kx)
-Where
-  w = Angular frequency = 2.pi.f; f = frequency of the sound wave
-  k = Wave number = 2.pi/lambda; lamda = wavelength of the sound wave
-
-If we neglect the wave-number factor of the equation
-y(t) = A.sin(wt) -----As per Physics point of view because the frequency is assumed to be constant
-
-We will keep  t constant and f variable because we will be using multiple keys having different frequencies. So, the equation becomes
-y(f) = A.sin(2.pi.f.t)
-
-Now the keys of any instrument is tuned with the help of Resonance of waves and in Piano it is done using "Equal Temperament System" and is given mathematically as:
-note_frequency = base_frequency * (2 ** (n/12)); where n is the number of notes away from the base_frequency note
-
 Refer to this article to know more about Equal Temperament System: https://en.wikipedia.org/wiki/Equal_temperament
