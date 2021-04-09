@@ -11,6 +11,8 @@ Black keys: Named wrt the relative position with an adjacent white key
             b: Flat (if a black key is present on the left of the white key)
             #: Sharp (if a black key is present on the right side of the white key)
             
+Refer this link to check out nomenclature of Piano keys: https://raw.githubusercontent.com/Kunal-Kumar-Sahoo/e-Piano/main/Piano-Keys-and-Notes-Piano-Keyboard-Diagram-1-1024x576.jpg          
+
 Our notation: White keys would be denoted as usual but black keys would be identified as sharp keys and would be denoted as corresponding white keys in lower case.
 
 Understanding the wave: The mathematical aspect
