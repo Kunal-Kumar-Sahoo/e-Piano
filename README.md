@@ -30,3 +30,5 @@ y(f) = A.sin(2.pi.f.t)
 
 Now the keys of any instrument is tuned with the help of Resonance of waves and in Piano it is done using "Equal Temperament System" and is given mathematically as:
 note_frequency = base_frequency * (2 ** (n/12)); where n is the number of notes away from the base_frequency note
+
+Refer to this article to know more about Equal Temperament System: https://en.wikipedia.org/wiki/Equal_temperament
